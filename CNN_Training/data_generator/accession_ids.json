@@ -1,0 +1,14 @@
+{
+    "SARS-CoV-2 Alpha": ["OV054768"],
+    "SARS-CoV-2 Beta": ["OX008586"],
+    "SARS-CoV-2 Gamma": ["OX000832"],
+    "SARS-CoV-2 Delta": ["OX014251"],
+    "SARS-CoV-2 Omicron": ["OW996240"],
+    "Influenza A": ["NC_002023", "NC_002021", "NC_002022", "NC_002017", "NC_002019", "NC_002018", "NC_002016", "NC_002020"],
+    "Influenza B": ["NC_002204", "NC_002205", "NC_002206", "NC_002207", "NC_002208", "NC_002209", "NC_002210", "NC_002211"],
+    "Zika": ["NC_035889"],
+    "Dengue": ["NC_001477"],
+    "Ebola": ["NC_002549"],
+    "Rabies": ["NC_001542"],
+    "Measles": ["NC_001498"]
+}
