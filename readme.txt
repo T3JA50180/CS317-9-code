@@ -1,5 +1,4 @@
 # Hybrid FrameWork for Viral Genome Classification Using FCGR Image with CNNs and XGBoost
-
 Author: Sunil Kumar, Tejas S Gowda, Mohammed Khalid Ahmed, Kodi Satya Sai Prakash
 
 # CNN Training
